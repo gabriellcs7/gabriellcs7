@@ -10,7 +10,7 @@
   <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=gabriellcs7.gabriellcs7&"  />
 </div>
 
-### 🚀 Sobre mim
+<h1>🚀 Sobre mim</h1>
 
 <p data-importer="text" align="left">
  - 🎓 Graduando em *Ciência da Computação* <br>
