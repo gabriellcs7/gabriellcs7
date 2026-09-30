@@ -13,13 +13,13 @@
 ### 🚀 Sobre mim
 
 <p data-importer="text" align="left">
- - 🎓 Graduando em *Ciência da Computação*
-- 💻 Estudando *Java, Python, HTML, CSS e JavaScript*
-- 🌐 Experiência com *desenvolvimento Web*
-- 🧠 Sempre buscando evoluir meus conhecimentos em programação
-- 🤝 Gosto de trabalhar em equipe e desenvolver projetos colaborativos
-- 📚 Atualmente focado em construir uma base sólida em desenvolvimento de software
-- ⚡ Objetivo atual: *aprofundar em desenvolvimento Fullstack.*
+ - 🎓 Graduando em *Ciência da Computação* <br>
+- 💻 Estudando *Java, Python, HTML, CSS e JavaScript* <br>
+- 🌐 Experiência com *desenvolvimento Web* <br>
+- 🧠 Sempre buscando evoluir meus conhecimentos em programação <br>
+- 🤝 Gosto de trabalhar em equipe e desenvolver projetos colaborativos <br>
+- 📚 Atualmente focado em construir uma base sólida em desenvolvimento de software <br>
+- ⚡ Objetivo atual: *aprofundar em desenvolvimento Fullstack.* <br>
 </p>
 
 ###
