@@ -6,13 +6,13 @@
 
 ###
 
-<p data-importer="text" align="left">hello world!</p>
-
-###
-
 <div data-importer="profile-views" align="left">
   <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=gabriellcs7.gabriellcs7&"  />
 </div>
+
+<p data-importer="text" align="left">hello world!</p>
+
+###
 
 ###
 
