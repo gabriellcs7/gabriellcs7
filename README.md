@@ -41,21 +41,24 @@
 ## 🌐 Redes sociais
 
 <div align="center">
+  <a href="https://www.instagram.com/_gabriell.cs/">
   <img
     src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge"
     height="35"
     alt="Instagram"
-  >
+  > </a>
+  <a href="mailto:gabrielcga2008@gmail.com">
   <img
     src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge"
     height="35"
     alt="Gmail"
-  >
+  > </a>
+  <a href="https://www.linkedin.com/in/gabriel-costa-81b482201/">
   <img
     src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge"
     height="35"
     alt="LinkedIn"
-  >
+  > </a>
 </div>
 
 <br>
