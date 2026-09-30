@@ -9,16 +9,17 @@
 ## 🚀 Sobre mim
 
 <p>
-- 🎓 Graduando em Ciência da Computação <br>
-- 💻 Estudando Java, Python, HTML, CSS e JavaScript <br>
+Sou estudante de Ciência da Computação (P2) e desenvolvedor Full Stack em formação. Tenho interesse em criar aplicações completas, desde interfaces responsivas até APIs e bancos de dados. 
+<br> <br>    
+Atualmente, estou aprimorando meus conhecimentos em Java, Python, JavaScript, HTML e CSS por meio de estudos e projetos práticos.Busco evoluir constantemente, aprender novas tecnologias e transformar ideias em soluções úteis, bem estruturadas e eficientes.
+<br> <br>
+- 🎓 Graduando em <strong>Ciência da Computação</strong> <br>
 - 🌐 Experiência com desenvolvimento Web <br>
-- 🧠 Sempre buscando evoluir meus conhecimentos em programação <br>
 - 🤝 Gosto de trabalhar em equipe e desenvolver projetos colaborativos <br> 
-- 📚 Atualmente focado em construir uma base sólida em desenvolvimento de software <br>
-- ⚡ Objetivo atual: aprofundar em desenvolvimento Fullstack. <br>
+- ⚡ Objetivo atual: aprofundar em <strong>desenvolvimento Fullstack.</strong> <br>
 </p>
 
-## 🛠️ Tecnologias e ferramentas
+## 🛠️ Tecnologias, Ferramentas e Redes Sociais
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript">
@@ -28,7 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS">
   <img width="15">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java">
-  <img width="15">
+  <img width="15"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python">
   <img width="15">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="Visual Studio Code">
@@ -37,9 +38,7 @@
   <img width="15">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git">
 </div>
-
-## 🌐 Redes sociais
-
+<br>
 <div align="center">
   <a href="https://www.instagram.com/_gabriell.cs/">
   <img
