@@ -1,5 +1,3 @@
-<p data-importer="text" align="left">Hello World!!</p>
-
 ###
 
 <div data-importer="border">
