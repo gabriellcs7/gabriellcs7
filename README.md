@@ -6,19 +6,19 @@
   />
 </div>
 
-<h2>🚀 Sobre mim</h2>
+## 🚀 Sobre mim
 
 <p>
-- 🎓 Graduando em *Ciência da Computação* <br>
-- 💻 Estudando *Java, Python, HTML, CSS e JavaScript* <br>
-- 🌐 Experiência com *desenvolvimento Web* <br>
+- 🎓 Graduando em Ciência da Computação <br>
+- 💻 Estudando Java, Python, HTML, CSS e JavaScript <br>
+- 🌐 Experiência com desenvolvimento Web <br>
 - 🧠 Sempre buscando evoluir meus conhecimentos em programação <br>
 - 🤝 Gosto de trabalhar em equipe e desenvolver projetos colaborativos <br> 
 - 📚 Atualmente focado em construir uma base sólida em desenvolvimento de software <br>
-- ⚡ Objetivo atual: *aprofundar em desenvolvimento Fullstack.* <br>
+- ⚡ Objetivo atual: aprofundar em desenvolvimento Fullstack. <br>
 </p>
 
-<h2>🛠️ Tecnologias e ferramentas</h2>
+## 🛠️ Tecnologias e ferramentas
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript">
@@ -38,7 +38,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git">
 </div>
 
-<h2>🌐 Redes sociais</h2>
+## 🌐 Redes sociais
 
 <div align="center">
   <img
@@ -60,14 +60,11 @@
 
 <br>
 
-<div align="center">
-  <img
-    src="https://visitor-badge.laobi.icu/badge?page_id=gabriellcs7.gabriellcs7"
-    alt="Visualizações do perfil"
-  >
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=bielxwl7.bielxwl7&"  />
 </div>
 
-<h2>📊 Estatísticas do GitHub</h2>
+## 📊 Estatísticas do GitHub
 
 <div align="center">
   <img
@@ -82,7 +79,15 @@
   >
 </div>
 
-<h2>🎧 Spotify</h2>
+## 🚀 Projetos em destaque
+
+| Projeto | Descrição | Tecnologias |
+|---------|-----------|-------------|
+| [**BackLog**](https://github.com/gabriellcs7/BackLog) | Site de avalição de jogos | JavaScript, HTML, CSS |
+| [**BoletimFaculdade**](https://github.com/gabriellcs7/BoletimFaculdade) | Sistema de boletim universitário | Python |
+| [**GameTech-Loja**](https://github.com/gabriellcs7/GameTach-Loja) | Sistema de loja de produtos tecnológicos | Python |
+
+## 🎧 Spotify
 
 <div align="center">
   <a href="https://open.spotify.com/user/21vngni7dvs42ela7gljftd5a">
@@ -93,26 +98,7 @@
   </a>
 </div>
 
-<h2>👾 Minhas contribuições</h2>
-
-<div align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/gabriellcs7/gabriellcs7/output/galaga-contribution-graph-dark.svg"
-    >
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/gabriellcs7/gabriellcs7/output/galaga-contribution-graph.svg"
-    >
-    <img
-      src="https://raw.githubusercontent.com/gabriellcs7/gabriellcs7/output/galaga-contribution-graph.svg"
-      alt="Galaga contribution graph"
-    >
-  </picture>
-</div>
-
-<h2>🎯 Objetivo</h2>
+## 🎯 Objetivo
 
 Estou construindo minha trajetória na área de tecnologia, buscando constantemente *aprender, criar e evoluir* como desenvolvedor.
 
