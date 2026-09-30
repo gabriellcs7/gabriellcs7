@@ -1,7 +1,7 @@
 <div align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=160&section=header&text=Gabriel%20%7C%20gabriellcs7&fontSize=40&fontColor=DCDCDC&fontAlignY=30&animation=fadeIn&desc=Desenvolvimento%20BackEnd&descSize=15&descAlign=50&descAlignY=52&color=gradient"
+    src="https://capsule-render.vercel.app/api?type=waving&height=160&section=header&text=Gabriel%20%7C%20gabriellcs7&fontSize=40&fontColor=DCDCDC&fontAlignY=30&animation=fadeIn&desc=Desenvolvimento%20FullStack&descSize=15&descAlign=50&descAlignY=52&color=gradient"
     alt="Banner Gabriel"
   />
 </div>
