@@ -10,7 +10,17 @@
   <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=gabriellcs7.gabriellcs7&"  />
 </div>
 
-<p data-importer="text" align="left">hello world!</p>
+### 🚀 Sobre mim
+
+<p data-importer="text" align="left">
+ - 🎓 Graduando em *Ciência da Computação*
+- 💻 Estudando *Java, Python, HTML, CSS e JavaScript*
+- 🌐 Experiência com *desenvolvimento Web*
+- 🧠 Sempre buscando evoluir meus conhecimentos em programação
+- 🤝 Gosto de trabalhar em equipe e desenvolver projetos colaborativos
+- 📚 Atualmente focado em construir uma base sólida em desenvolvimento de software
+- ⚡ Objetivo atual: *aprofundar em desenvolvimento Fullstack.*
+</p>
 
 ###
 
