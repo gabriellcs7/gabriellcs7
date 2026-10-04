@@ -86,8 +86,8 @@ Atualmente, estou aprimorando meus conhecimentos em Java, Python, JavaScript, HT
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
 | [**BackLog**](https://github.com/gabriellcs7/BackLog) | Site de avalição de jogos | JavaScript, HTML, CSS |
+| [**IA-Local**](https://github.com/gabriellcs7/IA-Local) | Inteligência Artificial em rede local | Python |
 | [**BoletimFaculdade**](https://github.com/gabriellcs7/BoletimFaculdade) | Sistema de boletim universitário | Python |
-| [**GameTech-Loja**](https://github.com/gabriellcs7/GameTach-Loja) | Sistema de loja de produtos tecnológicos | Python |
 
 ## 🎧 Spotify
 
