@@ -27,10 +27,10 @@
   <tr>
     <td width="54%" valign="middle">
       <p>
-        Olá! Sou <strong>Gabriel Costa</strong>, estudante de Ciência da Computação e desenvolvedor Full Stack em formação. Gosto de transformar ideias em aplicações úteis, unindo interfaces bem construídas, lógica de negócio e aprendizado constante.
+        Sou estudante de Ciência da Computação e desenvolvedor Full Stack em formação. Gosto de transformar ideias em aplicações úteis, unindo interfaces bem construídas, lógica de negócio e aprendizado constante.
       </p>
       <p>
-        🎓 Graduando em <strong>Ciência da Computação</strong><br/>
+        🎓 Graduando em <strong>Ciência da Computação</strong> (P2)<br/>
         🚀 Evoluindo em <strong>desenvolvimento Full Stack</strong><br/>
         🧠 Explorando aplicações web, automação e IA local<br/>
         🤝 Aberto a projetos colaborativos e novos desafios<br/>
@@ -117,14 +117,6 @@
 </div>
 
 <br/>
-
-<div align="center">
-  <img
-    width="65%"
-    src="https://streak-stats.demolab.com?user=gabriellcs7&theme=tokyonight&hide_border=true&border_radius=12&locale=pt_BR&date_format=j%20M%5B%20Y%5D"
-    alt="Sequência de contribuições de Gabriel Costa"
-  />
-</div>
 
 <div align="center">
   <img
