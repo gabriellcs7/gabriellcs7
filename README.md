@@ -1,7 +1,7 @@
 <div align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0D1117,50:6E40C9,100:00D9FF&text=Gabriel%20Costa&fontColor=FFFFFF&fontSize=42&fontAlignY=35&desc=Desenvolvedor%20Full%20Stack%20em%20forma%C3%A7%C3%A3o&descAlignY=56&descSize=17&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0D1117,50:6E40C9,100:00D9FF&text=Gabriel%20Costa&fontColor=FFFFFF&fontSize=42&fontAlignY=35&desc=Desenvolvedor%20Full%20Stack%20%20%&descAlignY=56&descSize=17&animation=fadeIn"
     alt="Banner de Gabriel Costa"
   />
 
