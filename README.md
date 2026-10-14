@@ -103,12 +103,12 @@
 
 <div align="center">
   <img
-    width="49%"
+    width="40%"
     src="https://github-readme-stats.vercel.app/api?username=gabriellcs7&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&border_radius=12&locale=pt-br"
     alt="Estatísticas do GitHub de Gabriel Costa"
   />
   <img
-    width="49%"
+    width="40%"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellcs7&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12&locale=pt-br"
     alt="Linguagens mais usadas por Gabriel Costa"
   />
@@ -116,7 +116,7 @@
 
 <div align="center">
   <img
-    width="70%"
+    width="65%"
     src="https://streak-stats.demolab.com?user=gabriellcs7&theme=tokyonight&hide_border=true&border_radius=12&locale=pt_BR&date_format=j%20M%5B%20Y%5D"
     alt="Sequência de contribuições de Gabriel Costa"
   />
@@ -124,7 +124,7 @@
 
 <div align="center">
   <img
-    width="98%"
+    width="80%"
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabriellcs7&theme=tokyonight"
     alt="Resumo das contribuições de Gabriel Costa"
   />
