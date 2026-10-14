@@ -1,7 +1,7 @@
 <div align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0D1117,50:6E40C9,100:00D9FF&text=Gabriel%20Costa&fontColor=FFFFFF&fontSize=42&fontAlignY=35&desc=Desenvolvedor%20Full%20Stack%20%20%&descAlignY=56&descSize=17&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0D1117,50:6E40C9,100:00D9FF&text=Gabriel%20Costa&fontColor=FFFFFF&fontSize=42&fontAlignY=35&desc=Desenvolvedor%20Full%20Stack%20em%20forma%C3%A7%C3%A3o&descAlignY=56&descSize=17&animation=fadeIn"
     alt="Banner de Gabriel Costa"
   />
 
@@ -13,7 +13,7 @@
   </a>
 
   <p>
-    <img src="https://komarev.com/ghpvc/?username=gabriellcs7&label=VISITAS&color=6E40C9&style=for-the-badge" alt="Visualizações do perfil" />
+    <img src="https://komarev.com/ghpvc/?username=gabriellcs7&label=VISITAS%20AO%20PERFIL&color=6E40C9&style=for-the-badge" alt="Visualizações do perfil" />
     <a href="https://github.com/gabriellcs7?tab=followers">
       <img src="https://img.shields.io/github/followers/gabriellcs7?label=SEGUIDORES&style=for-the-badge&color=00AEEF&labelColor=0D1117" alt="Seguidores" />
     </a>
@@ -75,16 +75,16 @@
 
 <div align="center">
   <a href="https://github.com/gabriellcs7/BackLog">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=gabriellcs7&repo=BackLog&theme=tokyonight&hide_border=true&border_radius=12" alt="BackLog" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=gabriellcs7&repo=BackLog&theme=tokyonight&hide_border=true&border_radius=12&description_lines_count=3" alt="BackLog" />
   </a>
   <a href="https://github.com/gabriellcs7/IA-Local">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=gabriellcs7&repo=IA-Local&theme=tokyonight&hide_border=true&border_radius=12" alt="IA-Local" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=gabriellcs7&repo=IA-Local&theme=tokyonight&hide_border=true&border_radius=12&description_lines_count=3" alt="IA-Local" />
   </a>
   <a href="https://github.com/gabriellcs7/BoletimFaculdade">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=gabriellcs7&repo=BoletimFaculdade&theme=tokyonight&hide_border=true&border_radius=12" alt="Boletim Faculdade" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=gabriellcs7&repo=BoletimFaculdade&theme=tokyonight&hide_border=true&border_radius=12&description_lines_count=3" alt="Boletim Faculdade" />
   </a>
   <a href="https://github.com/gabriellcs7/ironlung-academia">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=gabriellcs7&repo=ironlung-academia&theme=tokyonight&hide_border=true&border_radius=12" alt="IronLung Academia" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=gabriellcs7&repo=ironlung-academia&theme=tokyonight&hide_border=true&border_radius=12&description_lines_count=3" alt="IronLung Academia" />
   </a>
 </div>
 
@@ -103,16 +103,20 @@
 
 <div align="center">
   <img
-    width="40%"
-    src="https://github-readme-stats.vercel.app/api?username=gabriellcs7&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&border_radius=12&locale=pt-br"
+    height="180"
+    align="center"
+    src="https://github-readme-stats.vercel.app/api?username=gabriellcs7&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&border_radius=12&locale=pt-br&cache_seconds=86400"
     alt="Estatísticas do GitHub de Gabriel Costa"
   />
   <img
-    width="40%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellcs7&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12&locale=pt-br"
+    height="180"
+    align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellcs7&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12&locale=pt-br&size_weight=0.5&count_weight=0.5"
     alt="Linguagens mais usadas por Gabriel Costa"
   />
 </div>
+
+<br/>
 
 <div align="center">
   <img
@@ -160,3 +164,4 @@
   src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,50:6E40C9,100:00D9FF"
   alt="Rodapé decorativo"
 />
+
