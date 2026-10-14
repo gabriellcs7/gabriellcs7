@@ -1,0 +1,106 @@
+<svg width="860" height="360" viewBox="0 0 860 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Terminal animado de Gabriel Costa</title>
+  <desc id="desc">Terminal neon exibindo o foco de Gabriel em desenvolvimento Full Stack.</desc>
+
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="860" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111827" />
+      <stop offset="0.5" stop-color="#0D1117" />
+      <stop offset="1" stop-color="#160F2B" />
+    </linearGradient>
+    <linearGradient id="border" x1="80" y1="20" x2="780" y2="340" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00D9FF">
+        <animate attributeName="stop-color" values="#00D9FF;#A855F7;#00D9FF" dur="6s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="1" stop-color="#6E40C9">
+        <animate attributeName="stop-color" values="#6E40C9;#00D9FF;#6E40C9" dur="6s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(690 280) rotate(-145) scale(330 270)">
+      <stop stop-color="#6E40C9" stop-opacity="0.25" />
+      <stop offset="1" stop-color="#6E40C9" stop-opacity="0" />
+    </radialGradient>
+    <filter id="shadow" x="-20%" y="-30%" width="140%" height="160%">
+      <feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#000000" flood-opacity="0.5" />
+    </filter>
+    <filter id="softGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="5" />
+    </filter>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#8B5CF6" stroke-opacity="0.06" stroke-width="1" />
+    </pattern>
+  </defs>
+
+  <style>
+    .mono { font-family: "JetBrains Mono", "Fira Code", Consolas, monospace; }
+    .line { opacity: 0; animation: reveal 12s ease-in-out infinite; }
+    .l1 { animation-delay: 0.4s; }
+    .l2 { animation-delay: 1.3s; }
+    .l3 { animation-delay: 2.5s; }
+    .l4 { animation-delay: 3.4s; }
+    .l5 { animation-delay: 4.6s; }
+    .l6 { animation-delay: 5.5s; }
+    .cursor { animation: blink 0.9s steps(1) infinite; }
+    .status { animation: pulse 2.2s ease-in-out infinite; transform-origin: center; }
+    .orb-a { animation: floatA 7s ease-in-out infinite; }
+    .orb-b { animation: floatB 9s ease-in-out infinite; }
+    @keyframes reveal {
+      0%, 5% { opacity: 0; transform: translateY(5px); }
+      10%, 88% { opacity: 1; transform: translateY(0); }
+      94%, 100% { opacity: 0; }
+    }
+    @keyframes blink { 0%, 48% { opacity: 1; } 49%, 100% { opacity: 0; } }
+    @keyframes pulse { 0%, 100% { opacity: .55; } 50% { opacity: 1; } }
+    @keyframes floatA { 0%, 100% { transform: translate(0, 0); } 50% { transform: translate(-18px, 12px); } }
+    @keyframes floatB { 0%, 100% { transform: translate(0, 0); } 50% { transform: translate(16px, -10px); } }
+  </style>
+
+  <rect width="860" height="360" rx="28" fill="#080B12" />
+  <rect width="860" height="360" rx="28" fill="url(#grid)" />
+  <circle class="orb-a" cx="790" cy="50" r="55" fill="#00D9FF" fill-opacity="0.08" filter="url(#softGlow)" />
+  <circle class="orb-b" cx="90" cy="305" r="70" fill="#8B5CF6" fill-opacity="0.10" filter="url(#softGlow)" />
+
+  <g filter="url(#shadow)">
+    <rect x="34" y="26" width="792" height="308" rx="18" fill="url(#panel)" />
+    <rect x="34.75" y="26.75" width="790.5" height="306.5" rx="17.25" stroke="url(#border)" stroke-width="1.5" />
+    <rect x="35" y="27" width="790" height="50" rx="17" fill="#161B22" />
+    <path d="M35 77H825" stroke="#30363D" />
+  </g>
+
+  <circle cx="61" cy="52" r="7" fill="#FF5F56" />
+  <circle cx="84" cy="52" r="7" fill="#FFBD2E" />
+  <circle cx="107" cy="52" r="7" fill="#27C93F" />
+  <text x="430" y="58" text-anchor="middle" class="mono" font-size="15" fill="#8B949E">gabriel@github: ~/portfolio</text>
+
+  <g class="mono" font-size="17">
+    <g class="line l1">
+      <text x="62" y="115" fill="#00D9FF">❯</text>
+      <text x="86" y="115" fill="#C9D1D9">whoami</text>
+    </g>
+    <g class="line l2">
+      <text x="86" y="145" fill="#A78BFA">Gabriel Costa</text>
+      <text x="223" y="145" fill="#8B949E">// Computer Science student</text>
+    </g>
+    <g class="line l3">
+      <text x="62" y="190" fill="#00D9FF">❯</text>
+      <text x="86" y="190" fill="#C9D1D9">focus --now</text>
+    </g>
+    <g class="line l4">
+      <text x="86" y="220" fill="#7EE787">Full Stack</text>
+      <text x="201" y="220" fill="#8B949E">• Python • Java • JavaScript</text>
+    </g>
+    <g class="line l5">
+      <text x="62" y="265" fill="#00D9FF">❯</text>
+      <text x="86" y="265" fill="#C9D1D9">build --next</text>
+    </g>
+    <g class="line l6">
+      <text x="86" y="295" fill="#F0B72F">APIs • Interfaces • Soluções úteis</text>
+      <rect class="cursor" x="431" y="280" width="10" height="20" rx="2" fill="#00D9FF" />
+    </g>
+  </g>
+
+  <g class="status">
+    <circle cx="783" cy="52" r="5" fill="#27C93F" />
+    <text x="766" y="57" text-anchor="end" class="mono" font-size="12" fill="#8B949E">online</text>
+  </g>
+</svg>
