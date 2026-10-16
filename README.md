@@ -1,7 +1,7 @@
 <div align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0D1117,50:6E40C9,100:00D9FF&text=Gabriel%20Costa&fontColor=FFFFFF&fontSize=42&fontAlignY=35&desc=Desenvolvedor%20Full%20Stack%20em%20forma%C3%A7%C3%A3o&descAlignY=56&descSize=17&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0D1117,50:6E40C9,100:00D9FF&text=Gabriel%20Costa&fontColor=FFFFFF&fontSize=42&fontAlignY=35&desc=Desenvolvedor%20Full%20Stack&descAlignY=56&descSize=17&animation=fadeIn"
     alt="Banner de Gabriel Costa"
   />
 
@@ -129,9 +129,6 @@
 ## 🌐 Vamos nos conectar?
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/gabriel-costa-81b482201/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
   <a href="mailto:gabrielcga2008@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
