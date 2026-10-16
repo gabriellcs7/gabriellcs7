@@ -7,7 +7,7 @@
 
   <a href="https://github.com/gabriellcs7">
     <img
-      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=760&height=45&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Desenvolvedor+Full+Stack+em+forma%C3%A7%C3%A3o;Python+%E2%80%A2+Java+%E2%80%A2+JavaScript;Transformando+ideias+em+c%C3%B3digo"
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=760&height=45&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Desenvolvedor+Full+Stack+em+forma%C3%A7%C3%A3o;Python+%E2%80%A2+Java+%E2%80%A2+JavaScript+%E2%80%A2+HTML+%E2%80%A2+CSS+%E2%80%A2+Git;Transformando+ideias+em+c%C3%B3digo"
       alt="Apresentação animada"
     />
   </a>
