@@ -129,6 +129,9 @@
 ## 🌐 Vamos nos conectar?
 
 <div align="center">
+  <a href="https://www.linkedin.com/in/gabriel-costa-81b482201/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn de Gabriel Costa" />
+  </a>
   <a href="mailto:gabrielcga2008@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
