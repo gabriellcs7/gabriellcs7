@@ -121,7 +121,7 @@
 <div align="center">
   <img
     width="80%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabriellcs7&theme=tokyonight"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabriellcs7&theme=tokyonight&v=20261019"
     alt="Resumo das contribuições de Gabriel Costa"
   />
 </div>
