@@ -1,159 +1,143 @@
+<!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <div align="center">
-  <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0D1117,50:6E40C9,100:00D9FF&text=Gabriel%20Costa&fontColor=FFFFFF&fontSize=42&fontAlignY=35&desc=Desenvolvedor%20Full%20Stack&descAlignY=56&descSize=17&animation=fadeIn"
-    alt="Banner de Gabriel Costa"
-  />
 
-  <a href="https://github.com/gabriellcs7">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=760&height=45&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Desenvolvedor+Full+Stack+em+forma%C3%A7%C3%A3o;Python+%E2%80%A2+Java+%E2%80%A2+JavaScript+%E2%80%A2+HTML+%E2%80%A2+CSS+%E2%80%A2+Git;Transformando+ideias+em+c%C3%B3digo"
-      alt="Apresentação animada"
-    />
-  </a>
+<img width="100%" alt="Gabriel Costa — Desenvolvedor Full Stack" src="./assets/banner.svg" />
 
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=gabriellcs7&label=VISITAS%20AO%20PERFIL&color=6E40C9&style=for-the-badge" alt="Visualizações do perfil" />
-    <a href="https://github.com/gabriellcs7?tab=followers">
-      <img src="https://img.shields.io/github/followers/gabriellcs7?label=SEGUIDORES&style=for-the-badge&color=00AEEF&labelColor=0D1117" alt="Seguidores" />
-    </a>
-    <img src="https://img.shields.io/badge/JO%C3%83O%20PESSOA-PB-00D9FF?style=for-the-badge&labelColor=0D1117" alt="João Pessoa, Paraíba" />
-  </p>
+<a href="https://github.com/gabriellcs7">
+  <img alt="Apresentação animada" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3200&pause=900&color=00D9FF&center=true&vCenter=true&repeat=true&width=780&height=50&lines=Ol%C3%A1%2C+eu+sou+o+Gabriel+%F0%9F%91%8B;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Desenvolvedor+Full+Stack;Python+%E2%80%A2+Java+%E2%80%A2+JavaScript+%E2%80%A2+HTML+%E2%80%A2+CSS;Transformando+ideias+em+c%C3%B3digo+%E2%9C%A8" />
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=gabriellcs7&label=VISITAS&color=6E40C9&style=for-the-badge&labelColor=0D1117" alt="Visitas ao perfil" />
+<a href="https://github.com/gabriellcs7?tab=followers"><img src="https://img.shields.io/github/followers/gabriellcs7?label=SEGUIDORES&style=for-the-badge&color=00AEEF&labelColor=0D1117" alt="Seguidores" /></a>
+<img src="https://img.shields.io/badge/JO%C3%83O%20PESSOA-PB-00D9FF?style=for-the-badge&labelColor=0D1117" alt="João Pessoa, Paraíba" />
+<img src="https://img.shields.io/badge/STATUS-ABERTO%20A%20PROJETOS-6E40C9?style=for-the-badge&labelColor=0D1117" alt="Aberto a projetos" />
+
 </div>
 
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0D1117,50:6E40C9,100:00D9FF" alt="" />
+
+<!-- ═══════════════════════════ SOBRE ═══════════════════════════ -->
 ## 👨‍💻 Sobre mim
 
 <table>
   <tr>
     <td width="54%" valign="middle">
-      <p>
-        Sou estudante de Ciência da Computação e desenvolvedor Full Stack em formação. Gosto de transformar ideias em aplicações úteis, unindo interfaces bem construídas, lógica de negócio e aprendizado constante.
-      </p>
-      <p>
-        🎓 Graduando em <strong>Ciência da Computação</strong> (P2)<br/>
-        🚀 Evoluindo em <strong>desenvolvimento Full Stack</strong><br/>
-        🧠 Explorando aplicações web, automação e IA local<br/>
-        🤝 Aberto a projetos colaborativos e novos desafios<br/>
-        📍 João Pessoa, Paraíba — Brasil
-      </p>
-    </td>
+
+Sou estudante de **Ciência da Computação** e desenvolvedor **Full Stack**. Gosto de transformar ideias em aplicações úteis, unindo interfaces bem construídas, lógica de negócio e aprendizado constante.
+
+```yaml
+nome:       Gabriel Costa
+curso:      Ciência da Computação (P2)
+foco:       Desenvolvimento Full Stack
+explorando: [Web, Automação, IA Local]
+local:      João Pessoa, PB — Brasil
+disponivel: Projetos colaborativos e novos desafios 🚀
+```
+
+</td>
     <td width="46%" align="center">
       <img src="./assets/terminal.svg" width="100%" alt="Terminal animado de Gabriel Costa" />
     </td>
   </tr>
 </table>
 
-## 🧰 Tecnologias & ferramentas
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00D9FF,50:6E40C9,100:0D1117" alt="" />
+
+<!-- ═══════════════════════════ STACK ═══════════════════════════ -->
+## 🧰 Stack & ferramentas
 
 <div align="center">
 
-### Linguagens e Web
+**Linguagens & Web**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" alt="Python" title="Python" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="48" alt="Java" title="Java" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48" alt="JavaScript" title="JavaScript" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="48" alt="HTML5" title="HTML5" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="48" alt="CSS3" title="CSS3" />
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css&theme=dark" alt="Python, Java, JavaScript, HTML, CSS" height="56" />
 
-### Ambiente de desenvolvimento
+**Ambiente de desenvolvimento**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="46" alt="Git" title="Git" />
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=github&theme=dark" height="46" alt="GitHub" title="GitHub" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="46" alt="Visual Studio Code" title="Visual Studio Code" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="46" alt="IntelliJ IDEA" title="IntelliJ IDEA" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea&theme=dark" alt="Git, GitHub, VS Code, IntelliJ" height="56" />
 
 </div>
 
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0D1117,50:6E40C9,100:00D9FF" alt="" />
+
+<!-- ═══════════════════════════ PROJETOS ═══════════════════════════ -->
 ## 🚀 Projetos em destaque
 
 <div align="center">
   <a href="https://github.com/gabriellcs7/BackLog">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=gabriellcs7&repo=BackLog&theme=tokyonight&hide_border=true&border_radius=12&description_lines_count=3" alt="BackLog" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=gabriellcs7&repo=BackLog&bg_color=0D1117&title_color=FFFFFF&text_color=9CA3AF&icon_color=FFFFFF&border_color=30363D&border_radius=12&description_lines_count=3" alt="BackLog" />
   </a>
   <a href="https://github.com/gabriellcs7/IA-Local">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=gabriellcs7&repo=IA-Local&theme=tokyonight&hide_border=true&border_radius=12&description_lines_count=3" alt="IA-Local" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=gabriellcs7&repo=IA-Local&bg_color=0D1117&title_color=FFFFFF&text_color=9CA3AF&icon_color=FFFFFF&border_color=30363D&border_radius=12&description_lines_count=3" alt="IA-Local" />
   </a>
   <a href="https://github.com/gabriellcs7/BoletimFaculdade">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=gabriellcs7&repo=BoletimFaculdade&theme=tokyonight&hide_border=true&border_radius=12&description_lines_count=3" alt="Boletim Faculdade" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=gabriellcs7&repo=BoletimFaculdade&bg_color=0D1117&title_color=FFFFFF&text_color=9CA3AF&icon_color=FFFFFF&border_color=30363D&border_radius=12&description_lines_count=3" alt="Boletim Faculdade" />
   </a>
   <a href="https://github.com/gabriellcs7/ironlung-academia">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=gabriellcs7&repo=ironlung-academia&theme=tokyonight&hide_border=true&border_radius=12&description_lines_count=3" alt="IronLung Academia" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=gabriellcs7&repo=ironlung-academia&bg_color=0D1117&title_color=FFFFFF&text_color=9CA3AF&icon_color=FFFFFF&border_color=30363D&border_radius=12&description_lines_count=3" alt="IronLung Academia" />
   </a>
 </div>
 
-<details>
-  <summary><strong>💡 O que existe nesses projetos?</strong></summary>
-  <br/>
+<br/>
 
-  - 🎮 **BackLog:** site de avaliação de jogos, construído com HTML e CSS.
-  - 🤖 **IA-Local:** experimento de inteligência artificial executada localmente com Python.
-  - 🎓 **BoletimFaculdade:** sistema de boletim universitário desenvolvido em Python.
-  - 🏋️ **ironlung-academia:** website responsivo para atletas, criado em equipe com HTML5 e CSS3.
-  - 🛠️ **Outros projetos:** sistemas de loja, agendamento de chamados e exercícios práticos.
-</details>
+<div align="center">
 
+
+
+<a href="https://github.com/gabriellcs7?tab=repositories">
+  <img src="https://img.shields.io/badge/VER%20TODOS%20OS%20REPOSIT%C3%93RIOS-%E2%86%92-6E40C9?style=for-the-badge&labelColor=0D1117" alt="Ver todos os repositórios" />
+</a>
+
+</div>
+
+<!-- ═══════════════════════════ FOCO ═══════════════════════════ -->
+## 🎯 Foco atual
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/%F0%9F%8C%90%20Aplica%C3%A7%C3%B5es%20Web-0D1117?style=for-the-badge&labelColor=6E40C9" alt="Aplicações Web" />
+<img src="https://img.shields.io/badge/%E2%9A%99%EF%B8%8F%20Automa%C3%A7%C3%A3o-0D1117?style=for-the-badge&labelColor=00AEEF" alt="Automação" />
+<img src="https://img.shields.io/badge/%F0%9F%A7%A0%20IA%20Local-0D1117?style=for-the-badge&labelColor=6E40C9" alt="IA Local" />
+<img src="https://img.shields.io/badge/%F0%9F%9A%80%20Full%20Stack-0D1117?style=for-the-badge&labelColor=00AEEF" alt="Full Stack" />
+
+</div>
+
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0D1117,50:6E40C9,100:00D9FF" alt="" />
+
+<!-- ═══════════════════════════ ESTATÍSTICAS ═══════════════════════════ -->
 ## 📊 GitHub em números
 
 <div align="center">
-  <img
-    height="180"
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=gabriellcs7&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&border_radius=12&locale=pt-br&cache_seconds=86400"
-    alt="Estatísticas do GitHub de Gabriel Costa"
-  />
-  <img
-    height="180"
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellcs7&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12&locale=pt-br&size_weight=0.5&count_weight=0.5"
-    alt="Linguagens mais usadas por Gabriel Costa"
-  />
-</div>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=gabriellcs7&show_icons=true&rank_icon=github&card_width=400&line_height=33&bg_color=0D1117&title_color=FFFFFF&text_color=9CA3AF&icon_color=FFFFFF&ring_color=FFFFFF&border_color=30363D&border_radius=12&locale=pt-br&cache_seconds=86400" alt="Estatísticas do GitHub" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellcs7&layout=normal&langs_count=4&card_width=400&bg_color=0D1117&title_color=FFFFFF&text_color=9CA3AF&border_color=30363D&border_radius=12&locale=pt-br&size_weight=0.5&count_weight=0.5" alt="Linguagens mais usadas" />
 
 <br/>
 
-<div align="center">
-  <img
-    width="80%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabriellcs7&theme=tokyonight&v=20261019"
-    alt="Resumo das contribuições de Gabriel Costa"
-  />
+<br/>
+
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabriellcs7&theme=dark&bg_color=0D1117&title_color=FFFFFF&text_color=9CA3AF&icon_color=FFFFFF&chart_color=FFFFFF&border_color=30363D" alt="Resumo das contribuições" />
+
 </div>
 
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00D9FF,50:6E40C9,100:0D1117" alt="" />
+
+<!-- ═══════════════════════════ CONTATO ═══════════════════════════ -->
 ## 🌐 Vamos nos conectar?
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/gabriel-costa-81b482201/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn de Gabriel Costa" />
-  </a>
-  <a href="mailto:gabrielcga2008@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.instagram.com/_gabriell.cs/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://open.spotify.com/user/21vngni7dvs42ela7gljftd5a" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
-  </a>
-</div>
+
+<a href="https://www.linkedin.com/in/gabriel-costa-81b482201/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:gabrielcga2008@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://www.instagram.com/_gabriell.cs/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://open.spotify.com/user/21vngni7dvs42ela7gljftd5a"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" /></a>
 
 <br/>
 
-<div align="center">
-  <i>“Cada projeto é uma nova oportunidade de aprender, criar e evoluir.”</i>
-  <br/><br/>
-  <strong>Se algum projeto chamou sua atenção, deixe uma ⭐ ou venha trocar uma ideia!</strong>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=4000&pause=1500&color=6E40C9&center=true&vCenter=true&repeat=true&width=640&height=30&lines=Cada+projeto+%C3%A9+uma+nova+oportunidade+de+aprender%2C+criar+e+evoluir." alt="Frase final" />
+
+**Se algum projeto chamou sua atenção, deixe uma ⭐ ou venha trocar uma ideia!**
+
 </div>
-
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,50:6E40C9,100:00D9FF"
-  alt="Rodapé decorativo"
-/>
-
