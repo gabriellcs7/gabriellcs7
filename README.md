@@ -106,24 +106,6 @@ disponivel: Projetos colaborativos e novos desafios 🚀
 
 <img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0D1117,50:6E40C9,100:00D9FF" alt="" />
 
-<!-- ═══════════════════════════ ESTATÍSTICAS ═══════════════════════════ -->
-## 📊 GitHub em números
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=gabriellcs7&show_icons=true&rank_icon=github&card_width=400&line_height=33&bg_color=0D1117&title_color=FFFFFF&text_color=9CA3AF&icon_color=FFFFFF&ring_color=FFFFFF&border_color=30363D&border_radius=12&locale=pt-br&cache_seconds=86400" alt="Estatísticas do GitHub" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellcs7&layout=normal&langs_count=4&card_width=400&bg_color=0D1117&title_color=FFFFFF&text_color=9CA3AF&border_color=30363D&border_radius=12&locale=pt-br&size_weight=0.5&count_weight=0.5" alt="Linguagens mais usadas" />
-
-<br/>
-
-<br/>
-
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabriellcs7&theme=dark&bg_color=0D1117&title_color=FFFFFF&text_color=9CA3AF&icon_color=FFFFFF&chart_color=FFFFFF&border_color=30363D" alt="Resumo das contribuições" />
-
-</div>
-
-<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00D9FF,50:6E40C9,100:0D1117" alt="" />
-
 <!-- ═══════════════════════════ CONTATO ═══════════════════════════ -->
 ## 🌐 Vamos nos conectar?
 
