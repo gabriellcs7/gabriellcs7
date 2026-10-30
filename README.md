@@ -95,7 +95,7 @@ disponivel: Projetos colaborativos e novos desafios
 <a href="https://www.instagram.com/_gabriell.cs/"><img src="https://img.shields.io/badge/Instagram-6E40C9?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 <a href="https://open.spotify.com/user/21vngni7dvs42ela7gljftd5a"><img src="https://img.shields.io/badge/Spotify-6E40C9?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" /></a>
 
-<br/>
+
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=4000&pause=1500&color=6E40C9&center=true&vCenter=true&repeat=true&width=640&height=30&lines=Cada+projeto+%C3%A9+uma+nova+oportunidade+de+aprender%2C+criar+e+evoluir." alt="Frase final" />
 
