@@ -1,22 +1,3 @@
-<!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
-<div align="center">
-
-<img width="100%" alt="Gabriel Costa — Desenvolvedor Full Stack" src="./assets/banner.svg" />
-
-<a href="https://github.com/gabriellcs7">
-  <img alt="Apresentação animada" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3200&pause=900&color=00D9FF&center=true&vCenter=true&repeat=true&width=780&height=50&lines=Ol%C3%A1%2C+eu+sou+o+Gabriel+%F0%9F%91%8B;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Desenvolvedor+Full+Stack;Python+%E2%80%A2+Java+%E2%80%A2+JavaScript+%E2%80%A2+HTML+%E2%80%A2+CSS;Transformando+ideias+em+c%C3%B3digo+%E2%9C%A8" />
-</a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=gabriellcs7&label=VISITAS&color=6E40C9&style=for-the-badge&labelColor=0D1117" alt="Visitas ao perfil" />
-<a href="https://github.com/gabriellcs7?tab=followers"><img src="https://img.shields.io/github/followers/gabriellcs7?label=SEGUIDORES&style=for-the-badge&color=00AEEF&labelColor=0D1117" alt="Seguidores" /></a>
-<img src="https://img.shields.io/badge/JO%C3%83O%20PESSOA-PB-00D9FF?style=for-the-badge&labelColor=0D1117" alt="João Pessoa, Paraíba" />
-<img src="https://img.shields.io/badge/STATUS-ABERTO%20A%20PROJETOS-6E40C9?style=for-the-badge&labelColor=0D1117" alt="Aberto a projetos" />
-
-</div>
-
-<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0D1117,50:6E40C9,100:00D9FF" alt="" />
 
 <!-- ═══════════════════════════ SOBRE ═══════════════════════════ -->
 ## Sobre mim
@@ -42,6 +23,23 @@ disponivel: Projetos colaborativos e novos desafios 🚀
     </td>
   </tr>
 </table>
+
+<div align="center">
+<a href="https://github.com/gabriellcs7">
+  <img alt="Apresentação animada" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3200&pause=900&color=00D9FF&center=true&vCenter=true&repeat=true&width=780&height=50&lines=Ol%C3%A1%2C+eu+sou+o+Gabriel+%F0%9F%91%8B;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Desenvolvedor+Full+Stack;Python+%E2%80%A2+Java+%E2%80%A2+JavaScript+%E2%80%A2+HTML+%E2%80%A2+CSS;Transformando+ideias+em+c%C3%B3digo+%E2%9C%A8" />
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=gabriellcs7&label=VISITAS&color=6E40C9&style=for-the-badge&labelColor=0D1117" alt="Visitas ao perfil" />
+<a href="https://github.com/gabriellcs7?tab=followers"><img src="https://img.shields.io/github/followers/gabriellcs7?label=SEGUIDORES&style=for-the-badge&color=00AEEF&labelColor=0D1117" alt="Seguidores" /></a>
+<img src="https://img.shields.io/badge/JO%C3%83O%20PESSOA-PB-00D9FF?style=for-the-badge&labelColor=0D1117" alt="João Pessoa, Paraíba" />
+<img src="https://img.shields.io/badge/STATUS-ABERTO%20A%20PROJETOS-6E40C9?style=for-the-badge&labelColor=0D1117" alt="Aberto a projetos" />
+</div>
+</div>
+
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0D1117,50:6E40C9,100:00D9FF" alt="" />
+
 
 <img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00D9FF,50:6E40C9,100:0D1117" alt="" />
 
