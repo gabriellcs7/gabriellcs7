@@ -67,16 +67,16 @@ disponivel: Projetos colaborativos e novos desafios 🚀
 
 <div align="center">
   <a href="https://github.com/gabriellcs7/BackLog">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=gabriellcs7&repo=BackLog&bg_color=0D1117&title_color=FFFFFF&text_color=9CA3AF&icon_color=FFFFFF&border_color=30363D&border_radius=12&description_lines_count=3" alt="BackLog" />
+    <img width="49%" src="./assets/projeto-backlog.svg" alt="BackLog" />
   </a>
   <a href="https://github.com/gabriellcs7/IA-Local">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=gabriellcs7&repo=IA-Local&bg_color=0D1117&title_color=FFFFFF&text_color=9CA3AF&icon_color=FFFFFF&border_color=30363D&border_radius=12&description_lines_count=3" alt="IA-Local" />
+    <img width="49%" src="./assets/projeto-ia-local.svg" alt="IA-Local" />
   </a>
   <a href="https://github.com/gabriellcs7/BoletimFaculdade">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=gabriellcs7&repo=BoletimFaculdade&bg_color=0D1117&title_color=FFFFFF&text_color=9CA3AF&icon_color=FFFFFF&border_color=30363D&border_radius=12&description_lines_count=3" alt="Boletim Faculdade" />
+    <img width="49%" src="./assets/projeto-boletim.svg" alt="Boletim Faculdade" />
   </a>
   <a href="https://github.com/gabriellcs7/ironlung-academia">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=gabriellcs7&repo=ironlung-academia&bg_color=0D1117&title_color=FFFFFF&text_color=9CA3AF&icon_color=FFFFFF&border_color=30363D&border_radius=12&description_lines_count=3" alt="IronLung Academia" />
+    <img width="49%" src="./assets/projeto-ironlung.svg" alt="IronLung Academia" />
   </a>
 </div>
 
