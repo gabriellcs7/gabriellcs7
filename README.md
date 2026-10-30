@@ -19,7 +19,7 @@
 <img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0D1117,50:6E40C9,100:00D9FF" alt="" />
 
 <!-- ═══════════════════════════ SOBRE ═══════════════════════════ -->
-## 👨‍💻 Sobre mim
+## Sobre mim
 
 <table>
   <tr>
@@ -46,7 +46,7 @@ disponivel: Projetos colaborativos e novos desafios 🚀
 <img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00D9FF,50:6E40C9,100:0D1117" alt="" />
 
 <!-- ═══════════════════════════ STACK ═══════════════════════════ -->
-## 🧰 Stack & ferramentas
+## Stack & ferramentas
 
 <div align="center">
 
@@ -63,7 +63,7 @@ disponivel: Projetos colaborativos e novos desafios 🚀
 <img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0D1117,50:6E40C9,100:00D9FF" alt="" />
 
 <!-- ═══════════════════════════ PROJETOS ═══════════════════════════ -->
-## 🚀 Projetos em destaque
+## Projetos em destaque
 
 <div align="center">
   <a href="https://github.com/gabriellcs7/BackLog">
@@ -93,7 +93,7 @@ disponivel: Projetos colaborativos e novos desafios 🚀
 </div>
 
 <!-- ═══════════════════════════ FOCO ═══════════════════════════ -->
-## 🎯 Foco atual
+## Foco atual
 
 <div align="center">
 
@@ -107,7 +107,7 @@ disponivel: Projetos colaborativos e novos desafios 🚀
 <img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0D1117,50:6E40C9,100:00D9FF" alt="" />
 
 <!-- ═══════════════════════════ CONTATO ═══════════════════════════ -->
-## 🌐 Vamos nos conectar?
+## Vamos nos conectar?
 
 <div align="center">
 
