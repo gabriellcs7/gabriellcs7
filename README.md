@@ -92,20 +92,6 @@ disponivel: Projetos colaborativos e novos desafios 🚀
 
 </div>
 
-<!-- ═══════════════════════════ FOCO ═══════════════════════════ -->
-## Foco atual
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/%F0%9F%8C%90%20Aplica%C3%A7%C3%B5es%20Web-0D1117?style=for-the-badge&labelColor=6E40C9" alt="Aplicações Web" />
-<img src="https://img.shields.io/badge/%E2%9A%99%EF%B8%8F%20Automa%C3%A7%C3%A3o-0D1117?style=for-the-badge&labelColor=00AEEF" alt="Automação" />
-<img src="https://img.shields.io/badge/%F0%9F%A7%A0%20IA%20Local-0D1117?style=for-the-badge&labelColor=6E40C9" alt="IA Local" />
-<img src="https://img.shields.io/badge/%F0%9F%9A%80%20Full%20Stack-0D1117?style=for-the-badge&labelColor=00AEEF" alt="Full Stack" />
-
-</div>
-
-<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0D1117,50:6E40C9,100:00D9FF" alt="" />
-
 <!-- ═══════════════════════════ CONTATO ═══════════════════════════ -->
 ## Vamos nos conectar?
 
