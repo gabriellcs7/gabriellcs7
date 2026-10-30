@@ -38,9 +38,6 @@ disponivel: Projetos colaborativos e novos desafios 🚀
 </div>
 </div>
 
-<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0D1117,50:6E40C9,100:00D9FF" alt="" />
-
-
 <img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00D9FF,50:6E40C9,100:0D1117" alt="" />
 
 <!-- ═══════════════════════════ STACK ═══════════════════════════ -->
