@@ -1,6 +1,5 @@
-
 <!-- ═══════════════════════════ SOBRE ═══════════════════════════ -->
-## Sobre mim
+## `> whoami`
 
 <table>
   <tr>
@@ -36,12 +35,11 @@ disponivel: Projetos colaborativos e novos desafios 🚀
 <img src="https://img.shields.io/badge/JO%C3%83O%20PESSOA-PB-00D9FF?style=for-the-badge&labelColor=0D1117" alt="João Pessoa, Paraíba" />
 <img src="https://img.shields.io/badge/STATUS-ABERTO%20A%20PROJETOS-6E40C9?style=for-the-badge&labelColor=0D1117" alt="Aberto a projetos" />
 </div>
-</div>
 
 
 
 <!-- ═══════════════════════════ STACK ═══════════════════════════ -->
-## Stack & ferramentas
+## `> ls ~/stack`
 
 <div align="center">
 
@@ -51,14 +49,14 @@ disponivel: Projetos colaborativos e novos desafios 🚀
 
 **Ambiente de desenvolvimento**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea&theme=dark" alt="Git, GitHub, VS Code, IntelliJ" height="56" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,supabase&theme=dark" alt="Git, GitHub, VS Code, IntelliJ, Supabase" height="56" />
 
 </div>
 
 
 
 <!-- ═══════════════════════════ PROJETOS ═══════════════════════════ -->
-## Projetos em destaque
+## `> ls ~/projetos`
 
 <div align="center">
   <a href="https://github.com/gabriellcs7/BackLog">
@@ -88,14 +86,14 @@ disponivel: Projetos colaborativos e novos desafios 🚀
 </div>
 
 <!-- ═══════════════════════════ CONTATO ═══════════════════════════ -->
-## Vamos nos conectar?
+## `> ping gabriellcs7`
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/gabriel-costa-81b482201/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:gabrielcga2008@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-<a href="https://www.instagram.com/_gabriell.cs/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-<a href="https://open.spotify.com/user/21vngni7dvs42ela7gljftd5a"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" /></a>
+<a href="https://www.linkedin.com/in/gabriel-costa-81b482201/"><img src="https://img.shields.io/badge/LinkedIn-6E40C9?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0NDggNTEyIj48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTEwMC4yOCA0NDhINy40VjE0OC45aDkyLjg4ek01My43OSAxMDguMUMyNC4wOSAxMDguMSAwIDgzLjUgMCA1My44YTUzLjc5IDUzLjc5IDAgMCAxIDEwNy41OCAwYzAgMjkuNy0yNC4xIDU0LjMtNTMuNzkgNTQuM3pNNDQ3LjkgNDQ4aC05Mi42OFYzMDIuNGMwLTM0LjctLjctNzkuMi00OC4yOS03OS4yLTQ4LjI5IDAtNTUuNjkgMzcuNy01NS42OSA3Ni43VjQ0OGgtOTIuNzhWMTQ4LjloODkuMDh2NDAuOGgxLjNjMTIuNC0yMy41IDQyLjY5LTQ4LjMgODcuODgtNDguMyA5NCAwIDExMS4yOCA2MS45IDExMS4yOCAxNDIuM1Y0NDh6Ii8%2BPC9zdmc%2B" alt="LinkedIn" /></a>
+<a href="mailto:gabrielcga2008@gmail.com"><img src="https://img.shields.io/badge/Gmail-6E40C9?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://www.instagram.com/_gabriell.cs/"><img src="https://img.shields.io/badge/Instagram-6E40C9?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://open.spotify.com/user/21vngni7dvs42ela7gljftd5a"><img src="https://img.shields.io/badge/Spotify-6E40C9?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" /></a>
 
 <br/>
 
