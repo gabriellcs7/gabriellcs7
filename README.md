@@ -13,7 +13,7 @@ curso:      Ciência da Computação (P2)
 foco:       Desenvolvimento Full Stack
 explorando: [Web, Automação, IA Local]
 local:      João Pessoa, PB — Brasil
-disponivel: Projetos colaborativos e novos desafios 🚀
+disponivel: Projetos colaborativos e novos desafios 
 ```
 
 </td>
@@ -25,7 +25,7 @@ disponivel: Projetos colaborativos e novos desafios 🚀
 
 <div align="center">
 <a href="https://github.com/gabriellcs7">
-  <img alt="Apresentação animada" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3200&pause=900&color=00D9FF&center=true&vCenter=true&repeat=true&width=780&height=50&lines=Ol%C3%A1%2C+eu+sou+o+Gabriel+%F0%9F%91%8B;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Desenvolvedor+Full+Stack;Python+%E2%80%A2+Java+%E2%80%A2+JavaScript+%E2%80%A2+HTML+%E2%80%A2+CSS;Transformando+ideias+em+c%C3%B3digo+%E2%9C%A8" />
+  <img alt="Apresentação animada" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3200&pause=900&color=00D9FF&center=true&vCenter=true&repeat=true&width=780&height=50&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Desenvolvedor+Full+Stack;Python+%E2%80%A2+Java+%E2%80%A2+JavaScript+%E2%80%A2+HTML+%E2%80%A2+CSS;Transformando+ideias+em+c%C3%B3digo" />
 </a>
 
 <br/>
