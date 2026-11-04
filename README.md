@@ -49,9 +49,7 @@ disponivel: Projetos colaborativos e novos desafios
 
 **Ambiente de desenvolvimento**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,supabase&theme=dark" alt="Git, GitHub, VS Code, IntelliJ, Supabase" height="56" />
-<img src="./assets/antigravity.svg" alt="Antigravity" width="48" height="48"/>
-<img src="./assets/antigravity-ide.svg" alt="Antigravity IDE" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,supabase&theme=dark" alt="Git, GitHub, VS Code, IntelliJ, Supabase" height="56" />&nbsp;&nbsp;<img src="./assets/antigravity.svg" alt="Antigravity" width="48" height="48" />&nbsp;&nbsp;<img src="./assets/antigravity-ide.svg" alt="Antigravity IDE" width="48" height="48" />
 
 </div>
 
