@@ -68,8 +68,8 @@ disponivel: Projetos colaborativos e novos desafios
   <a href="https://github.com/gabriellcs7/BoletimFaculdade">
     <img width="49%" src="./assets/projeto-boletim.svg" alt="Boletim Faculdade" />
   </a>
-  <a href="https://github.com/gabriellcs7/ironlung-academia">
-    <img width="49%" src="./assets/projeto-ironlung.svg" alt="IronLung Academia" />
+  <a href="https://github.com/gabriellcs7/controle-financeiro">
+    <img width="49%" src="./assets/projeto-controle-financeiro.svg" alt="Controle Financeiro" />
   </a>
 </div>
 
@@ -92,7 +92,7 @@ disponivel: Projetos colaborativos e novos desafios
 
 <a href="https://www.linkedin.com/in/gabriel-costa-81b482201/"><img src="https://img.shields.io/badge/LinkedIn-6E40C9?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0NDggNTEyIj48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTEwMC4yOCA0NDhINy40VjE0OC45aDkyLjg4ek01My43OSAxMDguMUMyNC4wOSAxMDguMSAwIDgzLjUgMCA1My44YTUzLjc5IDUzLjc5IDAgMCAxIDEwNy41OCAwYzAgMjkuNy0yNC4xIDU0LjMtNTMuNzkgNTQuM3pNNDQ3LjkgNDQ4aC05Mi42OFYzMDIuNGMwLTM0LjctLjctNzkuMi00OC4yOS03OS4yLTQ4LjI5IDAtNTUuNjkgMzcuNy01NS42OSA3Ni43VjQ0OGgtOTIuNzhWMTQ4LjloODkuMDh2NDAuOGgxLjNjMTIuNC0yMy41IDQyLjY5LTQ4LjMgODcuODgtNDguMyA5NCAwIDExMS4yOCA2MS45IDExMS4yOCAxNDIuM1Y0NDh6Ii8%2BPC9zdmc%2B" alt="LinkedIn" /></a>
 <a href="mailto:gabrielcga2008@gmail.com"><img src="https://img.shields.io/badge/Gmail-6E40C9?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-<a href="https://www.instagram.com/_gabriell.cs/"><img src="https://img.shields.io/badge/Instagram-6E40C9?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://www.instagram.com/codergabriel/"><img src="https://img.shields.io/badge/Instagram-6E40C9?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 <a href="https://open.spotify.com/user/21vngni7dvs42ela7gljftd5a"><img src="https://img.shields.io/badge/Spotify-6E40C9?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" /></a>
 
 
